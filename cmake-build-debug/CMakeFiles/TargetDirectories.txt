@@ -1,0 +1,3 @@
+C:/Users/coope/CLionProjects/CSCI262/cmake-build-debug/CMakeFiles/CSCI262.dir
+C:/Users/coope/CLionProjects/CSCI262/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/coope/CLionProjects/CSCI262/cmake-build-debug/CMakeFiles/rebuild_cache.dir
